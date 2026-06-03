@@ -1,0 +1,1 @@
+Bu versiyada Guruhlar va Xavf darajasi dropdown menyusi pastdagi bloklar orqasiga kirib qolishi tuzatildi.

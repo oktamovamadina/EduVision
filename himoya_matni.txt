@@ -1,0 +1,11 @@
+HIMOYADA GAPIRISH UCHUN MATN
+
+Assalomu alaykum. Men tayyorlagan loyiha “Interaktiv vizualizatsiya dashboardi — Plotly yordamida” deb nomlanadi.
+
+Ushbu loyiha Dash va Plotly yordamida yaratilgan EduVision analitika platformasidir. Platforma talabalar o‘zlashtirishi, davomat, loyiha balli va xavf darajasini interaktiv grafiklar orqali tahlil qiladi.
+
+Loyiha quyidagi bo‘limlardan iborat: Bosh sahifa, Ma’lumotlar, Tahlil, Talaba profili, Xavf tahlili va Hisobot. Har bir bo‘lim alohida vazifani bajaradi. Bosh sahifada umumiy ko‘rsatkichlar, Ma’lumotlar bo‘limida talabalar jadvali, Tahlil bo‘limida fanlar va guruhlar bo‘yicha grafiklar, Talaba profilida individual natijalar, Xavf tahlilida yordam kerak talabalar, Hisobot bo‘limida esa yakuniy xulosa beriladi.
+
+Dasturda Python, Dash, Plotly va Pandas kutubxonalaridan foydalanildi. Plotly grafiklarni interaktiv qiladi, Dash esa ularni web-platforma ko‘rinishida chiqaradi.
+
+Xulosa qilib aytganda, ushbu loyiha o‘qituvchiga talabalar natijasini tez tahlil qilish, past natijali talabalarni aniqlash va ta’lim jarayonini yaxshilash bo‘yicha qaror qabul qilishga yordam beradi.

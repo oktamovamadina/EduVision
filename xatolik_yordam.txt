@@ -1,0 +1,13 @@
+XATOLIK CHIQSA
+
+1) Kutubxonalarni o'rnatish:
+pip install -r requirements.txt
+
+2) Dasturni ishga tushirish:
+python app.py
+
+3) Brauzerda ochish:
+http://127.0.0.1:8050
+
+4) Dasturni to'xtatish:
+CTRL + C

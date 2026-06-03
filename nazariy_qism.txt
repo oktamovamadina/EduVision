@@ -1,0 +1,7 @@
+NAZARIY QISM
+
+Interaktiv vizualizatsiya — bu ma’lumotlarni grafik ko‘rinishda tasvirlash va foydalanuvchiga grafik bilan ishlash imkonini beruvchi usuldir. Bunda foydalanuvchi grafikdagi ustun, nuqta yoki segment ustiga sichqoncha olib borib qo‘shimcha ma’lumotlarni ko‘rishi mumkin.
+
+Plotly — Python dasturlash tilida interaktiv grafiklar yaratish uchun ishlatiladigan zamonaviy kutubxona. Dash esa Plotly asosida web-ilova va analitika platformalari yaratishga yordam beradi.
+
+Ushbu loyihada talabalar natijasi, davomat va loyiha ballari asosida tahlil qilindi. Dashboard yordamida qaysi fan kuchli, qaysi guruh yaxshi, qaysi talaba yordamga muhtoj ekanini tez aniqlash mumkin.

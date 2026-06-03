@@ -1,0 +1,1 @@
+Bu versiyada Guruhlar va Xavf darajasi dropdown emas, pill-checkbox filter bo'lib ishlaydi. Shuning uchun ro'yxat pastdagi blok orqasiga kirib qolmaydi.
